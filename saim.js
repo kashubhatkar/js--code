@@ -1,5 +1,5 @@
-console.log("hello how are you?");
-
-console.log("fine,");
-
-tetsttttstsg
+console.log("hello Saim");
+console.log("hello kahkasha");
+console.log('How are you?');
+console.log("Im, fine, How about you.");
+console.log('same fine.');
